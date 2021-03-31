@@ -1,0 +1,23 @@
+{
+  "name": "coding-interview-questions",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yurimikushov/coding-interview-questions.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yurimikushov/coding-interview-questions/issues"
+  },
+  "homepage": "https://github.com/yurimikushov/coding-interview-questions#readme",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "prettier": "^2.2.1"
+  }
+}
