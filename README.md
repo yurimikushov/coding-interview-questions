@@ -32,4 +32,9 @@ Here I implement functions from [this article](https://performancejs.com/post/hd
 
 ## Hard
 
+1. [permute](src/3.%20hard/1.%20permute)
+2. [debounce](src/3.%20hard/2.%20debounce)
+3. [LinkedList](src/3.%20hard/3.%20LinkedList)
+4. [HashMap](src/3.%20hard/4.%20HashMap)
+
 Soon...
