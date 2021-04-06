@@ -20,7 +20,15 @@ Here I implement functions from [this article](https://performancejs.com/post/hd
 
 ## Intermediate
 
-Soon...
+1. [fib2](src/2.%20intermediate/1.%20fib2)
+2. [isBalanced2](src/2.%20intermediate/2.%20isBalanced2)
+3. [uniq](src/2.%20intermediate/3.%20uniq)
+4. [intersection](src/2.%20intermediate/4.%20intersection)
+5. [sort](src/2.%20intermediate/5.%20sort)
+6. [includes](src/2.%20intermediate/6.%20includes)
+7. [assignDeep](src/2.%20intermediate/7.%20assignDeep)
+8. [reduceAsync](src/2.%20intermediate/8.%20reduceAsync)
+9. [seq](src/2.%20intermediate/9.%20seq)
 
 ## Hard
 
