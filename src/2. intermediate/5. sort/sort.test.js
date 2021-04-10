@@ -5,7 +5,7 @@ describe('check sort()', () => {
     expect(sort([])).toEqual([])
   })
 
-  test('should return empty array', () => {
+  test('should return sorted array', () => {
     expect(sort([-4, 1, Infinity, 3, 3, 0])).toEqual([-4, 0, 1, 3, 3, Infinity])
   })
 })
